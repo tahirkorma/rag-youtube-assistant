@@ -20,10 +20,10 @@ This project demonstrates the combination of **video processing, natural languag
 🌐 [Try the app](https://ragbotbytahirkorma.streamlit.app/)
 
 ---
+
 ##  📸 Screenshot
-   ![screenshot](https://github.com/user-attachments/assets/f5cc0cfc-3a7d-49f4-be2b-3555c7cd94b4)
-   
-   
+   <img width="1640" height="2360" alt="screenshot" src="https://github.com/user-attachments/assets/f7a174bf-c091-43ab-bca3-abc010b6f2bf" />
+  
 --- 
 
 ## Features
